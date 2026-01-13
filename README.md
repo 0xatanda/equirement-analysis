@@ -1,11 +1,14 @@
-# Requirement Analysis in Software Developmen
+# Requirement Analysis in Software Development
+
 This repository explain the concept of Requirement Analysis in Software Developomment, its importance in software Development Life Cycle (SDLC), key activities involved, and how it applies to a booking management system. it also includes examples, diagraims, and acceptance criteria to demostrate practical understanding. 
 
 ## What is Requirement Analysis?
+
 Requirement Analysis is a critical phase in the Software Development Life Cycle (SDLC) where the needs, expectations, and constraints of stakeholders are identified, analyzed, documented, and validated. It ensure that the development team fully understands what the system should do and how it should perform before design and implementation begin.
 Requirement Analysis bridges the communication gap between stakeholders and developers, helping to define clear, measurable, and verifiable requirements that guide the entire project. A well-executed requirement analysis helps reduce misunderstandings, prevents rework, and ensures the final product aligns with business objectives.
 
 ## Why is Requiremment Analysis Important?
+
 Requirement Analysis is important because:
     - Clarity and Understanding
     - Scope Definitions
@@ -15,6 +18,7 @@ Requirement Analysis is important because:
     - Prevents Misunderstandings and Miscommunication
 
 ## Key Activities in Requirement Analysis
+
 The key activities involoved in Requrement Analysis include:
 - Requirement Gathering
 
@@ -38,6 +42,7 @@ The key activities involoved in Requrement Analysis include:
 
 
 ## Types of Requirements
+
 Functional Requirements: Functional requirement decribe what the system should do - the specific behaviours, services, and functionas the functions the system must support.
 
 For the Booking Management System, examples include:
